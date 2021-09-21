@@ -2,7 +2,8 @@
 https://enjoydrink-645a4.web.app/
 
 # おうちで一杯を楽しもう「EnjoyDrink」
-外に出られない今だから、おうちでの一杯は楽しみたいもの。「EnjoyDrink」は今の気分によって、あなたにおすすめのドリンクを紹介します。
+外に出られない今だから、おうちでの一杯は楽しみたいもの。
+「EnjoyDrink」は今の気分によって、あなたにおすすめのドリンクを紹介します。
 <img width="677" alt="EnjoyDrink" src="https://user-images.githubusercontent.com/74456418/134021360-fd9f1650-1eb8-4476-9d3a-cad0d53efdb4.png">
 
 # 使い方
